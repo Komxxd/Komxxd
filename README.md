@@ -20,6 +20,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komxxd&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Komxxd&theme=radical&border_radius=5" alt="GitHub Streak"/>
+</p>
+
 ---
 
 ### 📈 Contribution Graph
