@@ -23,10 +23,6 @@
 
 ---
 
-![Snake animation](https://github.com/Komxxd/Komxxd/blob/output/snake.svg)
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://x.com/komm_O_O"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
