@@ -32,6 +32,11 @@
 </p>
 
 ---
+<div align="center">
+
+  ![snake gif](https://github.com/Komxxd/Komxxd/blob/output/github-snake-dark.svg)
+</div>
+---
 
 ### 🌐 Connect with Me
 <p align="center">
