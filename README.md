@@ -15,6 +15,7 @@
 - 🏋️‍♀️ **[FitXP](https://fitxp.vercel.app/)** - gamified fitness web app.
 - 📊 **[Stock Prediction LSTM Model](https://github.com/Komxxd/stock-prediction)** - A stock direction prediction made using LSTM model
 - 🤖 **[Askify](https://github.com/Komxxd/AskifyPDF)** - A RAG based local LLM for chating with PDF files
+- 📈 **[Algorithmic trading platform](https://github.com/Komxxd/strategy-builder)** - An Algorithmic trading platform that works with Angel One Broker.
 
 ## GitHub Activity
 
