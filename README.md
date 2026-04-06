@@ -14,6 +14,7 @@
 - 🎬 **[ListLinkd](https://listlinkd.com/)** - a web app to track books, films, and shows.
 - 🏋️‍♀️ **[FitXP](https://fitxp.vercel.app/)** - gamified fitness web app.
 - 📊 **[Stock Prediction LSTM Model](https://github.com/Komxxd/stock-prediction)** - A stock direction prediction made using LSTM model
+- 🤖 **[Askify](https://github.com/Komxxd/AskifyPDF)** - A RAG based local LLM for chating with PDF files
 
 ## GitHub Activity
 
