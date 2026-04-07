@@ -1,3 +1,5 @@
+<img width="1198" height="515" alt="image" src="https://github.com/user-attachments/assets/d2bab5dd-b63d-47b8-a662-166c8f1dfa9c" />
+
 # Hi, I'm Komal!!
 
 🎀 **just chilling and building stuff**
