@@ -1,4 +1,4 @@
-<img width="1198" height="515" alt="image" src="https://github.com/user-attachments/assets/d2bab5dd-b63d-47b8-a662-166c8f1dfa9c" />
+<img width="1200" height="405" alt="image" src="https://github.com/user-attachments/assets/419f0c03-e47a-4c6b-8194-e00cbdbdba95" />
 
 # Hi, I'm Komal!!
 
