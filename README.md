@@ -33,8 +33,8 @@
 
 <p align="center">
 <a href="https://github.com/Komxxd">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Komxxd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Komxxd&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Komxxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Komxxd&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
