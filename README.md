@@ -23,6 +23,7 @@
 
 ### **📉 Quant / Financial Engineering**
 - 📈 **[Algorithmic trading platform](https://github.com/Komxxd/strategy-builder)** - An Algorithmic trading platform that works with Angel One Broker.
+- ⚙️ **[Backtesting Engine](https://github.com/Komxxd/backtesting-engine)** - Backtesting engine for the algorithmic trading platform.
 
 ## GitHub Activity
 
