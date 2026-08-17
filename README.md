@@ -13,6 +13,11 @@
 
 ## Current Projects
 
+### **📉 Quant / Financial Engineering**
+- 📈 **[Algorithmic trading platform](https://github.com/Komxxd/strategy-builder)** - An Algorithmic trading platform that works with Angel One Broker.
+- ⚙️ **[Backtesting Engine](https://github.com/Komxxd/backtesting-engine)** - Backtesting engine for the algorithmic trading platform.
+- 📊 **[Portfolio Management System](https://github.com/Komxxd/portfolio-management)** - An advanced portfolio management system.
+
 ### **🏗️ Product & Full-Stack Systems**
 - 🎬 **[ListLinkd](https://listlinkd.com/)** - a web app to track books, films, and shows.
 - 🏋️‍♀️ **[FitXP](https://fitxp.vercel.app/)** - gamified fitness web app.
@@ -20,10 +25,6 @@
 ### **🤖 AI / Intelligent Systems**
 - 📊 **[Stock Prediction LSTM Model](https://github.com/Komxxd/stock-prediction)** - A stock direction prediction made using LSTM model
 - 🤖 **[Askify](https://github.com/Komxxd/AskifyPDF)** - A RAG based local LLM for chating with PDF files
-
-### **📉 Quant / Financial Engineering**
-- 📈 **[Algorithmic trading platform](https://github.com/Komxxd/strategy-builder)** - An Algorithmic trading platform that works with Angel One Broker.
-- ⚙️ **[Backtesting Engine](https://github.com/Komxxd/backtesting-engine)** - Backtesting engine for the algorithmic trading platform.
 
 ## GitHub Activity
 
