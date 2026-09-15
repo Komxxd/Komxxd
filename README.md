@@ -42,7 +42,6 @@
 
 ## Connect
 <p align="center">
-  <a href="https://x.com/komm_O_O"><img src="https://img.shields.io/badge/Twitter-1f1f1f?style=for-the-badge&logo=twitter&logoColor=89b4fa"/></a>
   <a href="https://www.linkedin.com/in/komal-kumari-395309285"><img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=74c7ec"/></a>
   <a href="mailto:komalkumari0999@gmail.com"><img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logoColor=f5c2e7"/></a>
 </p>
